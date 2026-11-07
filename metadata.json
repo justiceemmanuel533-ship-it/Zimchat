@@ -1,0 +1,6 @@
+{
+  "name": "ZimChat - Ultra-Low Data Messenger",
+  "description": "Zimbabwe's ultra-low data communication platform (2-10 MB/day) with verified identity via email, mobile number, and photo verification.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
